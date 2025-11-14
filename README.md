@@ -1,1 +1,1 @@
-# Springboard
+This project aims to build a machine learning model to predict whether an order will be delivered on time using supplier and order-related factors. It helps manufacturing and logistics firms assess operational reliability and take corrective actions in procurement and delivery processes.
